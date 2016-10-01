@@ -1,0 +1,6 @@
+[plugin]
+name = "dokku-rebuild"
+description = "A plugin for dokku that rebuilds an app without a git push"
+version = "0.4.0"
+website_url = "https://github.com/rvtraveller/dokku-rebuild"
+[plugin.config]
